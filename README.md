@@ -18,6 +18,7 @@
 - Might work:  http://www.mouser.com/ds/2/276/0152680815_CABLE-698335.pdf diff: 0.27mm thick vs. desired .3mm thick, 4mm exposed vs. 5mm exposed.
 
 Maybes:
+
 - http://www.molex.com/molex/products/family?key=ffc_fpc_smt&channel=products&chanName=family&pageTitle=Introduction
 - http://www.molex.com/molex/products/datasheet.jsp?part=active/0982680815_CABLE.xml
 - http://www.molex.com/molex/products/listview.jsp?query=&offset=0&filter=&fs=&npp=20&sType=a&autoNav=&path=cCABLE%23%230%23%236r1%7E%7Ef214%7C%7C3133%7E%7Ef104%7C%7C312e32356d6d%7E%7Enf9%7C%7C302e3037366d&channel=Products
